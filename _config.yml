@@ -1,2 +1,6 @@
 baseurl: /jekyll_demo
 markdown: redcarpet
+safe: true
+lsi: false
+pygments: true
+
