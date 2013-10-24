@@ -1,8 +1,5 @@
 baseurl: /my_blog
-markdown: rdiscount
-pandoc:
-    format: html5
-    extensions: [smart, mathjax]
+markdown: redcarpet
 safe: true
 lsi: false
 pygments: true
