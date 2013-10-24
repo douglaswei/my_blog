@@ -1,5 +1,5 @@
 baseurl: /my_blog
-markdown: redcarpet
+markdown: maruku
 safe: true
 lsi: false
 pygments: true
