@@ -1,3 +1,7 @@
+---
+layout: default
+title: 人生需要规划
+---
 ### 记录计划，尽可能的服从计划安排
 
 ### For better life
