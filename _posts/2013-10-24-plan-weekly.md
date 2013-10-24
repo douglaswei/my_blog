@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 每周计划
+title:
 ---
-##每周计划
+##
 
 ### 2013-10-28

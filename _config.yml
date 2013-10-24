@@ -1,6 +1,7 @@
 baseurl: /my_blog
-markdown: redcarpet
+markdown: kramdown
 safe: true
 lsi: false
 pygments: true
 permalink: date
+source: ./
